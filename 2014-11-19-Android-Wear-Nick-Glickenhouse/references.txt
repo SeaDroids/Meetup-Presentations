@@ -1,0 +1,5 @@
+Reference material can be found here: http://bit.ly/1F4t9xB
+
+Quick reference - presentation slides : https://docs.google.com/a/glympse.com/presentation/d/1FWr20BI78cilQlxJhFCB3Lp_bPuZnRqm7zyAu2xvRGQ/edit?usp=sharing
+Quick reference - sample app source code : https://github.com/gwyddion39/speech-timer
+
